@@ -685,7 +685,7 @@ Version:	1.1
 	position: relative;
 	z-index: 3;
 	border-radius: 10px;
-	margin-top: -45px;
+	margin-top: 45px;
 }
 #about-me .tabs-main .nav-tabs {
 	position: absolute;
@@ -2448,7 +2448,7 @@ Version:	1.1
 =========================*/
 #contact {
 	position: relative;
-	top: 215px;
+	top: 105px;
 	z-index: 43;
 	margin-top: -215px;
 }
